@@ -3,3 +3,5 @@
 ################################################################################
 
 /M101/week1/SystemCheck/packages
+/M101/week1/SystemCheck/src/M101DotNet.WebApp/bin
+/M101/week1/SystemCheck/src/M101DotNet.WebApp/obj/Debug
